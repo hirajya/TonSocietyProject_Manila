@@ -5,8 +5,8 @@ import 'normalize.css/normalize.css';
 import './_assets/globals.css';
 
 export const metadata = {
-  title: 'Your Application Title Goes Here',
-  description: 'Your application description goes here',
+  title: 'Bookbee',
+  description: 'Read, Engage, and Earn',
 };
 
 export default function RootLayout({ children }) {
